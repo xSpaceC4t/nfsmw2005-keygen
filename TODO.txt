@@ -1,0 +1,1 @@
+Test against original function from activation exe
